@@ -25,9 +25,6 @@ title: Optimizing Cache for Saving Cash
 </v-clicks>
 
 ---
-
-
----
 layout: fact
 ---
 
@@ -90,7 +87,7 @@ layout: fact
 
 🔑 Each unique entity has its own cache key for layout
 
-🧩 Most of the layout is the same across entity type
+🧩 Most of the layout is the same across the same entity type
 
 📈 On large catalogs, cache can grow into 20Gbytes+ overtime
 
@@ -309,6 +306,12 @@ class PreventRunningObserverPlugin
     }
 }
 ```
+
+---
+layout: fact
+---
+
+# Demo Time
 
 ---
 
