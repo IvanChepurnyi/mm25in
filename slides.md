@@ -186,7 +186,7 @@ class RemoveEntityCache
 
 # Result
 
-😱 With both fixes applied it reduces max Redis cache usage to under 10Mbytes on most datasets
+😱 With both fixes applied it reduces max Redis cache usage to under 20 Mbytes on most datasets
 
 ---
 
@@ -276,7 +276,7 @@ class SkipRenderLayoutElement
 
 <v-clicks>
 
-🔌 Create plugin for `\Magento\Persistent\Helper\Data`
+🔌 Create plugin for `Magento\Persistent\Helper\Data`
 
 🛠️ Create after-plugin for `canProcess()` method
 
@@ -314,10 +314,9 @@ layout: fact
 # Demo Time
 
 ---
-
-
+layout: fact
+---
 # Thank You!
 
-Slides are available at
-
+Access slides here:
 https://ivanchepurnyi.github.io/mm25in
